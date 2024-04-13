@@ -72,7 +72,7 @@
         <Setting>
           <option name="name" value="delayStep" />
           <option name="type" value="checkbox" />
-          <option name="value" value="false" />
+          <option name="value" value="true" />
         </Setting>
         <Setting>
           <option name="name" value="incognito" />

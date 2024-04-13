@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95ac3708-ecb2-45ee-8274-4a0519d2eebe" name="Changes" comment="" />
+    <list default="true" id="95ac3708-ecb2-45ee-8274-4a0519d2eebe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/qualit_plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/qualit_plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,15 +23,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Working Project/AutomatedTests/TestAddProductChamelion",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Working Project/AutomatedTests/TestAddProductChamelion&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Working Project\AutomatedTests\TestAddProductChamelion\src\main\resources" />
@@ -37,6 +41,7 @@
       <recent name="C:\Working Project\AutomatedTests\TestAddProductChamelion\src\test\resources\features" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Working Project\AutomatedTests\TestAddProductChamelion\target\reports" />
       <recent name="C:\Working Project\AutomatedTests\TestAddProductChamelion\src\test\resources\features" />
     </key>
   </component>
@@ -49,26 +54,6 @@
       <module name="TestAddProductChamelion" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
       <option name="SUGGESTED_NAME" value="Feature: Список товаров" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="MakeProject" enabled="false" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Добавление нового товара" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Список товаров.feature" />
-      <option name="GLUE" value="ru.ibsqa.chameleon org.ibs" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="TestAddProductChamelion" />
-      <option name="NAME_FILTER" value="^Добавление нового товара$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Добавление нового товара$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Добавление нового товара" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -109,6 +94,26 @@
       <option name="NAME_FILTER" value="^Проверка локаторов$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Проверка локаторов$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: Проверка локаторов" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="MakeProject" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Добавление нового товара" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Список товаров.feature" />
+      <option name="GLUE" value="ru.ibsqa.chameleon org.ibs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="TestAddProductChamelion" />
+      <option name="NAME_FILTER" value="^Добавление нового товара$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Добавление нового товара$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Добавление нового товара" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -206,7 +211,6 @@
         <item itemvalue="Cucumber Java.Scenario: Добавления товара" />
         <item itemvalue="Cucumber Java.Feature: Список товаров" />
         <item itemvalue="Cucumber Java.Scenario: Добавление нового товара" />
-        <item itemvalue="Cucumber Java.Scenario: Проверка локаторов" />
       </list>
     </recent_temporary>
   </component>
@@ -219,6 +223,19 @@
       <option name="presentableId" value="Default" />
       <updated>1713018175280</updated>
     </task>
+    <task id="LOCAL-00001" summary="Сделал">
+      <option name="closed" value="true" />
+      <created>1713027060747</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713027060747</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Сделал" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал" />
   </component>
 </project>
