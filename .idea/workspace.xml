@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95ac3708-ecb2-45ee-8274-4a0519d2eebe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/qualit_plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/qualit_plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2f37zypURgQQcV0PrwVLHT7FpVS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -28,6 +29,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Working Project/AutomatedTests/TestAddProductChamelion&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
@@ -231,11 +233,20 @@
       <option name="project" value="LOCAL" />
       <updated>1713027060747</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавил в тест шаг Сброс данных&#10;Настроил allure отчет">
+      <option name="closed" value="true" />
+      <created>1713027780696</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713027780696</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Сделал" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал" />
+    <MESSAGE value="Добавил в тест шаг Сброс данных&#10;Настроил allure отчет" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил в тест шаг Сброс данных&#10;Настроил allure отчет" />
   </component>
 </project>
